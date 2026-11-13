@@ -5,7 +5,7 @@
 
 GECU es una aplicación de escritorio para Windows diseñada para facilitar la gestión curricular y la evaluación educativa.
 
-## Versión actual: 1.0.1
+## Versión actual: 1.0.4
 
 ### Descarga
 Consulta la sección [Releases](../../releases) para descargar la última versión.
